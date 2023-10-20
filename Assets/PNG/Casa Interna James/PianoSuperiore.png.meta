@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: fb3eddc3a6eb5fd42ad5eaa86173baa0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PianoSuperiore_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -29}
+        - {x: -24, y: 16}
+        - {x: 24, y: 16}
+        - {x: 24, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb67f45f5d6b84cb464aaa2d33133e
+      internalID: 1749944853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -39, y: 52}
+        - {x: -47, y: 39}
+        - {x: -47, y: -19}
+        - {x: 47, y: -18}
+        - {x: 47, y: 39}
+        - {x: 39, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64ca5085494f347b03cee962e58b4e
+      internalID: 1974375620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -20}
+        - {x: 52, y: -20}
+        - {x: 52, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085af736755a1504182054d42a2eba13
+      internalID: -520689344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 9}
+        - {x: 4, y: -13}
+        - {x: 30, y: -13}
+        - {x: 51, y: -13}
+        - {x: 51, y: 26}
+        - {x: 4, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8979fbdac69b4fb8eaf38c1b7b933
+      internalID: -1414840763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528537781f4ac0498ee787756c270d1
+      internalID: 1001824107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -54, y: 52}
+        - {x: -54, y: 5}
+        - {x: 48, y: 5}
+        - {x: 48, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa2907f35b38d349bca3437fe15d6e6
+      internalID: 771160226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91245bca2890e8147a62d62d8eb98aaa
+      internalID: 2143174500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -54, y: 52}
+        - {x: -54, y: 5}
+        - {x: 48, y: 5}
+        - {x: 48, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad814886e68b2544b9017defdab8eece
+      internalID: -1164487482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: 48}
+        - {x: -46, y: -12}
+        - {x: -46, y: -63}
+        - {x: 54, y: -64}
+        - {x: 54, y: 49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c77f6388fb45f4581810bbcf19e3b9
+      internalID: -1479380972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63, y: 49}
+        - {x: -64, y: -12}
+        - {x: -64, y: -64}
+        - {x: 44, y: -64}
+        - {x: 45, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5dfd006890b2a4ab2f226daf46dbfe
+      internalID: 310971506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -43, y: 64}
+        - {x: -44, y: -12}
+        - {x: -44, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbc2861b956d54cb5caadbb8841795
+      internalID: 615971660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -12}
+        - {x: -64, y: -34}
+        - {x: 44, y: -34}
+        - {x: 44, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3c4b247bd4a2439ef3925f5a7447b
+      internalID: 1565734093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: 48}
+        - {x: -46, y: -12}
+        - {x: -46, y: -63}
+        - {x: 54, y: -64}
+        - {x: 54, y: 49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b910572cd141bd44919e27364f6480e
+      internalID: -2055182642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63, y: 49}
+        - {x: -64, y: -12}
+        - {x: -64, y: -64}
+        - {x: 44, y: -64}
+        - {x: 45, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446bfaac163856468a9aebab9fcef7f
+      internalID: -1372971941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -43, y: 64}
+        - {x: -44, y: -12}
+        - {x: -44, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169e81d7e6a98349a4e2af739c8964e
+      internalID: -1871117642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -12}
+        - {x: -64, y: -34}
+        - {x: 44, y: -34}
+        - {x: 44, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0fc5d6d2d3714448ac6f244c2058e2
+      internalID: -1877685349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -60, y: -18}
+        - {x: -60, y: 60}
+        - {x: 60, y: 60}
+        - {x: 60, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942af4f12ae90934f8c00f2225ccb848
+      internalID: -2115869434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -60, y: -63}
+        - {x: -60, y: -34}
+        - {x: 60, y: -34}
+        - {x: 60, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d336d3b0f4c3e44909d666f0beb751
+      internalID: 942225211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eaf03324b882849b4c2dd96ab80f50
+      internalID: 918944680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PianoSuperiore_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54cacaea9895214485dae136f313ba3
+      internalID: 2093847313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PianoSuperiore_2: -520689344
+      PianoSuperiore_4: 1001824107
+      PianoSuperiore_13: -1372971941
+      PianoSuperiore_17: 942225211
+      PianoSuperiore_5: 771160226
+      PianoSuperiore_6: 2143174500
+      PianoSuperiore_12: -2055182642
+      PianoSuperiore_11: 1565734093
+      PianoSuperiore_15: -1877685349
+      PianoSuperiore_7: -1164487482
+      PianoSuperiore_16: -2115869434
+      PianoSuperiore_9: 310971506
+      PianoSuperiore_10: 615971660
+      PianoSuperiore_18: 918944680
+      PianoSuperiore_3: -1414840763
+      PianoSuperiore_0: 1749944853
+      PianoSuperiore_14: -1871117642
+      PianoSuperiore_8: -1479380972
+      PianoSuperiore_1: 1974375620
+      PianoSuperiore_19: 2093847313
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

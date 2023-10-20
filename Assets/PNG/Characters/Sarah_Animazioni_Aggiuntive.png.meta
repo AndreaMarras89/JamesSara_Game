@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 79444202ac36192418ae79932b1af61d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3866
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac0db9867628a4ab1987e2422aab38
+      internalID: -1618549462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3792
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eaf0182a6372a42973da739d8f89c6
+      internalID: 2069610748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3792
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49bcc34c253d4489d7fdb8974673bb
+      internalID: -1892812445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3792
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e6afc914747f45b5629ba12413847
+      internalID: 1340140034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3784
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eea42bade75c941a06ed162f97502c
+      internalID: 1310660190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_5
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3784
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19531ca66a8944185fb201e0bc032b
+      internalID: -1956274353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_6
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3784
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1878c57695d654aad6e591358533fd
+      internalID: 1883982190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_7
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3784
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625faa528a6a2764ba33c6e61a3255c7
+      internalID: 569312448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3660
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cefa79a2dcc041ae77fd59f46ca1a
+      internalID: 954990130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3660
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e34059a64aa8e1469912b519cd4cf88
+      internalID: -1080265684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3660
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad207356723cfc941bc542a92ff2b317
+      internalID: -1683868558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3734
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332708b0b3d53e46aafa34683b7abb7
+      internalID: 563020078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3632
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947c72c40c6d3649b2f6c3d30b67c4a
+      internalID: -972012954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_13
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 3632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0540d5dfb45d66429f8173b22b2cdbb
+      internalID: -2081506445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_14
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3632
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c259df0d93041c4a8951a442d369658
+      internalID: 1643645613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_15
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4df485a911064795a50b55390ead3
+      internalID: 1166962206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_16
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3471
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80bcc73b01b34429cd56e0d17212b4
+      internalID: 1131778490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_17
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3471
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09415f64d139f1e47ba45d533a86c217
+      internalID: -1353578011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_18
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3476
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f2f44ded3b4a4eb4167444567dd00
+      internalID: -1713233154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3476
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fa94807e4f91c448e4d07575dd56c8
+      internalID: -800046788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3472
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0afc57b6cc54540a3e647a1bea6423
+      internalID: 1261563493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3348
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec1dbbf35598a458f30177867f4bc8
+      internalID: 2021571808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3348
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50999fcac32d1c144b4c945aa174de0e
+      internalID: 1248163475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3348
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0514f4837e17e348a880657578f9756
+      internalID: 1891732359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3348
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338017808e2610f43885ba4864eca42f
+      internalID: -150149514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_25
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3340
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca857075272dc5648934ec2357783de2
+      internalID: 1335921251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_26
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3340
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcc8082225794843a69d73d8ebff06a
+      internalID: 896237977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3340
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6dcd6d856772e46a55d4e269f67847
+      internalID: -714552521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_28
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3338
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4978bd9a9677604fa25e4a1afa07b8d
+      internalID: 900181975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3208
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1d1c0931dfd24ca22abe13e4e830f
+      internalID: 752615599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3208
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d8e159d2c9394e91d5ec5c1961158
+      internalID: 256759761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3208
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f076e30f034bd674e8e8742617c67a2c
+      internalID: 1136626420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_32
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3208
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9845d2d49db840a48cc130a25b0b5
+      internalID: -663320929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_33
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3208
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649dc0d9356c97c4087f06c474d7afff
+      internalID: -2053453022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_34
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3208
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b9bc0ed2fb4e468dcdb7e2a7649ce
+      internalID: -1949556970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3208
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf684552400ee2946ac9e0e0605f3af6
+      internalID: 1926962992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_36
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3208
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcff489a541fc0479162c39d7fd6eed
+      internalID: -1533298842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3076
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7658fe8d08367e469c48b33736fe62c
+      internalID: -419349674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3076
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54203ca4479c7542b41ef77ba77cdf9
+      internalID: 624520867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3076
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20427995040deac419757a02cc8452f7
+      internalID: 237586795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3076
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c3c22d7d738346bff6f10136b7351
+      internalID: -667045182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_41
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3024
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c425d02393b547b8db58c3f18b637
+      internalID: -885026302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_42
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3024
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32be87f681265e549a436f8bceec6b16
+      internalID: 433789790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_43
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3024
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a8ed6cfd41ff479d7d40febac1dee
+      internalID: 1407606012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3024
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42510f341c117c24da41bb47e248c5f0
+      internalID: 294542882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_45
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 3024
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf7b7b6a0db15a4bae2b38088878037
+      internalID: 917352569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2940
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40fa2714827c2c4da55038cb188ea5e
+      internalID: 568994277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2940
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfeac5f0d5fcf84cad625f91831933d
+      internalID: -916220503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2940
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831bee80e94d43344bcdf5d441f8bf3f
+      internalID: 604190694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2940
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e9c9fef8ebe884ba0bdb02c2ee2e4e
+      internalID: -2128892732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_50
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2908
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff4c29827e0ee42a8bf8c8ea95a9a6
+      internalID: -320027935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_51
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2908
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a94652d02a83043b28e10623603a1e
+      internalID: 932806773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_52
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2908
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04d65c43c9e2f45996f36ba1bedc88
+      internalID: 1828127495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_53
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2908
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab0d839121620458714f64cce93b65
+      internalID: -884111188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_54
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2908
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa65466b9e3d1a41ad9d568e736339d
+      internalID: -1721081201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2792
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa6637c81afbe74f90849417da51278
+      internalID: -472855096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2792
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e5a24f92bf13d49b0c7da64e263b5c
+      internalID: -1013092586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2792
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e965d33224becc748b49fa4a710659b5
+      internalID: 961637707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2792
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b09f14c51cf94b9a9f84a63aff166
+      internalID: 1672298262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_59
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2788
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ed69a70451dd43bdf59f6f8998a67
+      internalID: 300489225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_60
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2788
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8957252a8c6e534598a5a3da0af4cd7
+      internalID: 77334739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2788
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01c2ef47adc414480e3ee17f4ac78e
+      internalID: -788506342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_62
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2788
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de797dc3f1f9e8409260b49961c81eb
+      internalID: -1576609625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_63
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2788
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da7b65e13196f46967d3da6f4c4f4d
+      internalID: 2061484011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ccccb40e013e40a6082fdbfc40e0a
+      internalID: -295372440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_65
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2632
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475aa3e5157c5fe47a332bba31120c8a
+      internalID: 1549586189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2632
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b26c6dd645da34e97a818fc375a969
+      internalID: -1452427282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_67
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2632
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3cad862e8f3b44489d038ea61107f5
+      internalID: -1696283712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_68
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07067dba9a602da4fa12d81d2e31e5ab
+      internalID: -371442816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_69
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2668
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314355462da285d49ba69cd6b4f3a344
+      internalID: -1633713357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_70
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2668
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb9ccbdd5235548bf400e87e1ad57a
+      internalID: 14242736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_71
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2668
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fb95ab663146440bba3493835710d3
+      internalID: 2102033009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_72
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2668
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b486984bbbe622449cd2bbdfe53d3ef
+      internalID: -1880762512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_73
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2668
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e982129e4adc174a98cc4e881a2e7a8
+      internalID: -298192982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_74
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2476
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f03e35b4ed14043b956dc729c6acdf
+      internalID: -315183164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2476
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248837a7df77d345831fabb29a5f2c0
+      internalID: 757709004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2476
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f6787c0ce0b440b597eb71f2456a3
+      internalID: 91053672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_77
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2476
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f63091209db0c4e98472a69cfc5640
+      internalID: -549478282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_78
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2476
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f31633f4a55c43bc1092852c77467
+      internalID: -1859874211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2332
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644e5536b6d678419ee4f7fc30d83a7
+      internalID: 548718273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2332
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d4cd67abdbc04b9908f80699cc65f
+      internalID: 2003996606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_81
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2332
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10b5a3bb4ee90a43a825b0e929ad554
+      internalID: -1533865209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_82
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2332
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bfa3c12841fb64c83f8e5138f30265
+      internalID: -1689656054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_83
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2332
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27c32144cc4d148825bd34164d4ebb
+      internalID: -394816111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2184
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5fae0114a82e4d93083b7c9e24a12
+      internalID: -2115161220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_85
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2184
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6704c475eaa33348b6b104070e64c2e
+      internalID: 2021251829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_86
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2184
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8511984a7f44524eab75badda320ea0
+      internalID: -1763893250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_87
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2184
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a57cf0b361dfce44941edce6988f27e
+      internalID: -949051249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_Animazioni_Aggiuntive_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2184
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ecfa4f7911de647b20e3062cf0f9ce
+      internalID: 1916892943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sarah_Animazioni_Aggiuntive_44: 294542882
+      Sarah_Animazioni_Aggiuntive_59: 300489225
+      Sarah_Animazioni_Aggiuntive_10: -1683868558
+      Sarah_Animazioni_Aggiuntive_52: 1828127495
+      Sarah_Animazioni_Aggiuntive_62: -1576609625
+      Sarah_Animazioni_Aggiuntive_31: 1136626420
+      Sarah_Animazioni_Aggiuntive_46: 568994277
+      Sarah_Animazioni_Aggiuntive_60: 77334739
+      Sarah_Animazioni_Aggiuntive_86: -1763893250
+      Sarah_Animazioni_Aggiuntive_51: 932806773
+      Sarah_Animazioni_Aggiuntive_8: 954990130
+      Sarah_Animazioni_Aggiuntive_15: 1166962206
+      Sarah_Animazioni_Aggiuntive_61: -788506342
+      Sarah_Animazioni_Aggiuntive_4: 1310660190
+      Sarah_Animazioni_Aggiuntive_26: 896237977
+      Sarah_Animazioni_Aggiuntive_32: -663320929
+      Sarah_Animazioni_Aggiuntive_58: 1672298262
+      Sarah_Animazioni_Aggiuntive_6: 1883982190
+      Sarah_Animazioni_Aggiuntive_28: 900181975
+      Sarah_Animazioni_Aggiuntive_76: 91053672
+      Sarah_Animazioni_Aggiuntive_5: -1956274353
+      Sarah_Animazioni_Aggiuntive_85: 2021251829
+      Sarah_Animazioni_Aggiuntive_35: 1926962992
+      Sarah_Animazioni_Aggiuntive_56: -1013092586
+      Sarah_Animazioni_Aggiuntive_42: 433789790
+      Sarah_Animazioni_Aggiuntive_2: -1892812445
+      Sarah_Animazioni_Aggiuntive_43: 1407606012
+      Sarah_Animazioni_Aggiuntive_30: 256759761
+      Sarah_Animazioni_Aggiuntive_49: -2128892732
+      Sarah_Animazioni_Aggiuntive_21: 2021571808
+      Sarah_Animazioni_Aggiuntive_72: -1880762512
+      Sarah_Animazioni_Aggiuntive_29: 752615599
+      Sarah_Animazioni_Aggiuntive_47: -916220503
+      Sarah_Animazioni_Aggiuntive_83: -394816111
+      Sarah_Animazioni_Aggiuntive_19: -800046788
+      Sarah_Animazioni_Aggiuntive_25: 1335921251
+      Sarah_Animazioni_Aggiuntive_9: -1080265684
+      Sarah_Animazioni_Aggiuntive_41: -885026302
+      Sarah_Animazioni_Aggiuntive_63: 2061484011
+      Sarah_Animazioni_Aggiuntive_22: 1248163475
+      Sarah_Animazioni_Aggiuntive_27: -714552521
+      Sarah_Animazioni_Aggiuntive_68: -371442816
+      Sarah_Animazioni_Aggiuntive_23: 1891732359
+      Sarah_Animazioni_Aggiuntive_14: 1643645613
+      Sarah_Animazioni_Aggiuntive_45: 917352569
+      Sarah_Animazioni_Aggiuntive_74: -315183164
+      Sarah_Animazioni_Aggiuntive_64: -295372440
+      Sarah_Animazioni_Aggiuntive_82: -1689656054
+      Sarah_Animazioni_Aggiuntive_17: -1353578011
+      Sarah_Animazioni_Aggiuntive_69: -1633713357
+      Sarah_Animazioni_Aggiuntive_48: 604190694
+      Sarah_Animazioni_Aggiuntive_54: -1721081201
+      Sarah_Animazioni_Aggiuntive_50: -320027935
+      Sarah_Animazioni_Aggiuntive_75: 757709004
+      Sarah_Animazioni_Aggiuntive_73: -298192982
+      Sarah_Animazioni_Aggiuntive_66: -1452427282
+      Sarah_Animazioni_Aggiuntive_40: -667045182
+      Sarah_Animazioni_Aggiuntive_70: 14242736
+      Sarah_Animazioni_Aggiuntive_16: 1131778490
+      Sarah_Animazioni_Aggiuntive_87: -949051249
+      Sarah_Animazioni_Aggiuntive_71: 2102033009
+      Sarah_Animazioni_Aggiuntive_55: -472855096
+      Sarah_Animazioni_Aggiuntive_53: -884111188
+      Sarah_Animazioni_Aggiuntive_84: -2115161220
+      Sarah_Animazioni_Aggiuntive_36: -1533298842
+      Sarah_Animazioni_Aggiuntive_20: 1261563493
+      Sarah_Animazioni_Aggiuntive_57: 961637707
+      Sarah_Animazioni_Aggiuntive_65: 1549586189
+      Sarah_Animazioni_Aggiuntive_1: 2069610748
+      Sarah_Animazioni_Aggiuntive_78: -1859874211
+      Sarah_Animazioni_Aggiuntive_11: 563020078
+      Sarah_Animazioni_Aggiuntive_18: -1713233154
+      Sarah_Animazioni_Aggiuntive_39: 237586795
+      Sarah_Animazioni_Aggiuntive_7: 569312448
+      Sarah_Animazioni_Aggiuntive_88: 1916892943
+      Sarah_Animazioni_Aggiuntive_3: 1340140034
+      Sarah_Animazioni_Aggiuntive_38: 624520867
+      Sarah_Animazioni_Aggiuntive_12: -972012954
+      Sarah_Animazioni_Aggiuntive_81: -1533865209
+      Sarah_Animazioni_Aggiuntive_33: -2053453022
+      Sarah_Animazioni_Aggiuntive_34: -1949556970
+      Sarah_Animazioni_Aggiuntive_77: -549478282
+      Sarah_Animazioni_Aggiuntive_80: 2003996606
+      Sarah_Animazioni_Aggiuntive_24: -150149514
+      Sarah_Animazioni_Aggiuntive_13: -2081506445
+      Sarah_Animazioni_Aggiuntive_79: 548718273
+      Sarah_Animazioni_Aggiuntive_37: -419349674
+      Sarah_Animazioni_Aggiuntive_67: -1696283712
+      Sarah_Animazioni_Aggiuntive_0: -1618549462
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - interactible
+  - character_interactible
+  - NGSara
+  - NGJames
+  - James
+  - Sara
+  - Selectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Objects
+  - Water
+  - UI
+  - Ground
+  - MainMenu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pavimenti
+    uniqueID: 805760887
+    locked: 0
+  - name: Decorazioni
+    uniqueID: 2895038957
+    locked: 0
+  - name: 
+    uniqueID: 3555666229
+    locked: 0
+  - name: Oggetti Solidi
+    uniqueID: 3854366983
+    locked: 0
+  - name: Personaggi
+    uniqueID: 1683728351
+    locked: 0
+  - name: SopraPg
+    uniqueID: 186018613
+    locked: 0

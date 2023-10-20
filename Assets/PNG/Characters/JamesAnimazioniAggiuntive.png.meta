@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: a706dff65e2765f4aa7cf2482620dd74
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1004
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e781157d412444ab15d150f5c3a9ee
+      internalID: -997371295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1076
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5c50f67f94a84a9f58b42f21e05ba
+      internalID: 990219595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1004
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e1f80bb51a8b44858b12cac46ebe6
+      internalID: 1268820461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1004
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2b1ffb69648fb41a271fd2250b127f
+      internalID: 1278689486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1004
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa690861bc01eb241aa220066e4ead23
+      internalID: 1268149875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1004
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309582deb2a870a4b8050a0a3070ecc6
+      internalID: 1587281192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1004
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec4389cab35ff4b8593e705aefa7c9
+      internalID: 1212595416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1076
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbfb1bf7c22610489080b6a71d1cb18
+      internalID: 128409328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_8
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 996
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179aae41c63f3444285be52840a5f0f1
+      internalID: 1541100311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_9
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 996
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9ac3ceb74eae4da0c42fb4cc94c61
+      internalID: 923414174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_10
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 996
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf78be6169d984b92514b3a4f7e9e5
+      internalID: -111503885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_11
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 996
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd875b4c3c1d9e54f9439e538b29ba0c
+      internalID: -184676940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_12
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 844
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6df94b180abd9478e22f92677f65df
+      internalID: -471072029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_13
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 844
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c30353b9d5304f82fc6c6cb67d36b
+      internalID: -153714133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_14
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 844
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efd9d670e50a94fa0d5ae0f69f88ae
+      internalID: 1149052846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_15
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 844
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320fd20b1de60b46bcd87c25788f95c
+      internalID: -1861072500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_16
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 692
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4804912f21872143af9f99bb02de665
+      internalID: -1125964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_17
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 692
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161f0efdee4abd47acf365d3c830475
+      internalID: -1749692842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_18
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 692
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b808f81109d567447b4d208a71778bc4
+      internalID: 580672323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 692
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08bd8fd3a6f8b4397ddea66a5bc0a6
+      internalID: -1352161098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_20
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 692
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82b7467d6e3df478f043042e840f39
+      internalID: 413084575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_21
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 692
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af70e12cf6bacd7458f2f63d1c28e61f
+      internalID: 1935878093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_22
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 692
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f027e16d8ac9b4ca1d7f889ff193c7
+      internalID: -1841226282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_23
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 692
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b1f9964655704ba32b2b07812a424
+      internalID: 835731164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_24
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 692
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce72afbdbd631845bf97a0596d991ee
+      internalID: -281903149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 536
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059dc423a3479264089fbfc3276f9604
+      internalID: 1429650504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 536
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52e1422e61d2b409e0ab56bc98faf0
+      internalID: -569982035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_27
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 536
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a789605b34fd884cbe87679d37708b0
+      internalID: -1344271125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_28
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 536
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d537bd6310f1d04a99e0b12f13b4e74
+      internalID: -1598407954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_29
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 536
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d3fe307e25b4e499cbee8890600827
+      internalID: 2054888025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_30
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 536
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c7c85b8b4c1b49b185c8ba371c69c
+      internalID: 1438616962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_31
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 536
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e24663dec6d344abef50e225674bcb
+      internalID: -604054707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_32
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 536
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47730dfa488b26c4cbd905b9adf2499a
+      internalID: -1401622922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_33
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 536
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a849b40a0ce8b4cba0b13548eb6b89
+      internalID: -597401080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 388
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf49c1723d1eb64a9c2fa4b9141cb2e
+      internalID: -1676939886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_35
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 388
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93f569bb620e845a01d3ee8b080c33
+      internalID: -1343703703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_36
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 388
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695cfb82f4a06648a8df7b16267256d
+      internalID: -180086341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_37
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 388
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d334416de75c4985937e722b286ff
+      internalID: 1930634177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_38
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 380
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1780887aea75184cbb74e89a6ed231e
+      internalID: -1350582875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_39
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 380
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa1ee0ac05d4be4989771298815d8f3
+      internalID: 1984582748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_40
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 380
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588cc4e0f1abe64bb651ccdb5720db8
+      internalID: 2046280136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_41
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 380
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5279cba27909d246821696ad5b1b85f
+      internalID: -1820725517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_42
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 380
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f42198e81151046b26a6f235af1383
+      internalID: 459243376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_43
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 228
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f8d12e4aaa6d469e14d7c0593fe36
+      internalID: 1516175447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_44
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 228
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40954893a7de5e4b8b50d6bbed3c446
+      internalID: 773472836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_45
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 228
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706dcd1cfbf8b2b43a023d31ab8dfcd0
+      internalID: 1719976305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_46
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 228
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101adda95a15634fbc791c8e7e81c69
+      internalID: 1819019778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JamesAnimazioniAggiuntive_47
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 228
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b5b20914a62d4b8511efc18e9cb5c
+      internalID: 1970725984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      JamesAnimazioniAggiuntive_23: 835731164
+      JamesAnimazioniAggiuntive_27: -1344271125
+      JamesAnimazioniAggiuntive_13: -153714133
+      JamesAnimazioniAggiuntive_41: -1820725517
+      JamesAnimazioniAggiuntive_24: -281903149
+      JamesAnimazioniAggiuntive_39: 1984582748
+      JamesAnimazioniAggiuntive_3: 1278689486
+      JamesAnimazioniAggiuntive_5: 1587281192
+      JamesAnimazioniAggiuntive_15: -1861072500
+      JamesAnimazioniAggiuntive_0: -997371295
+      JamesAnimazioniAggiuntive_16: -1125964059
+      JamesAnimazioniAggiuntive_45: 1719976305
+      JamesAnimazioniAggiuntive_12: -471072029
+      JamesAnimazioniAggiuntive_32: -1401622922
+      JamesAnimazioniAggiuntive_14: 1149052846
+      JamesAnimazioniAggiuntive_38: -1350582875
+      JamesAnimazioniAggiuntive_25: 1429650504
+      JamesAnimazioniAggiuntive_34: -1676939886
+      JamesAnimazioniAggiuntive_35: -1343703703
+      JamesAnimazioniAggiuntive_44: 773472836
+      JamesAnimazioniAggiuntive_11: -184676940
+      JamesAnimazioniAggiuntive_6: 1212595416
+      JamesAnimazioniAggiuntive_33: -597401080
+      JamesAnimazioniAggiuntive_42: 459243376
+      JamesAnimazioniAggiuntive_17: -1749692842
+      JamesAnimazioniAggiuntive_18: 580672323
+      JamesAnimazioniAggiuntive_4: 1268149875
+      JamesAnimazioniAggiuntive_20: 413084575
+      JamesAnimazioniAggiuntive_9: 923414174
+      JamesAnimazioniAggiuntive_2: 1268820461
+      JamesAnimazioniAggiuntive_29: 2054888025
+      JamesAnimazioniAggiuntive_30: 1438616962
+      JamesAnimazioniAggiuntive_28: -1598407954
+      JamesAnimazioniAggiuntive_21: 1935878093
+      JamesAnimazioniAggiuntive_7: 128409328
+      JamesAnimazioniAggiuntive_31: -604054707
+      JamesAnimazioniAggiuntive_37: 1930634177
+      JamesAnimazioniAggiuntive_8: 1541100311
+      JamesAnimazioniAggiuntive_19: -1352161098
+      JamesAnimazioniAggiuntive_36: -180086341
+      JamesAnimazioniAggiuntive_1: 990219595
+      JamesAnimazioniAggiuntive_22: -1841226282
+      JamesAnimazioniAggiuntive_43: 1516175447
+      JamesAnimazioniAggiuntive_47: 1970725984
+      JamesAnimazioniAggiuntive_40: 2046280136
+      JamesAnimazioniAggiuntive_26: -569982035
+      JamesAnimazioniAggiuntive_10: -111503885
+      JamesAnimazioniAggiuntive_46: 1819019778
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

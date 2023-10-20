@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 46e9f656b728c61498858d01365df637
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sarah_ffp2_0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3866
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1ced4e00bdc524f874a23005fbe62f
+      internalID: -441344647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3792
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff40ec189b7b94298f2873b6859d5a
+      internalID: 1205487332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3792
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882d6438c8cae24b8c86979a9fb19a3
+      internalID: 1152864202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3792
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319c4ca60a924643b7a9c89dd9f30a8
+      internalID: -1226860935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3784
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388be001a92d7541ab81f625f5ee695
+      internalID: -1206791659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_5
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3784
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e6ada572797f34fae97ecbaa0c86c1
+      internalID: -1690521655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_6
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3784
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef07143b209cb304a9acd9a1ce0d2df9
+      internalID: -1637555110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_7
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3784
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8a8c4c86de0484da8c0064f14cd525
+      internalID: 1046385708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3660
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b159eb7f971e8d42ac8f0d31f103034
+      internalID: -577265003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3660
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e58553c83e7f7f428111bbd5e0c4e14
+      internalID: -2011118594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3660
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0171931dbf249df4eabde390678d6b4a
+      internalID: -1749918213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3734
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c1471d653fc1541bdc8fc08339211b
+      internalID: -446466378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3632
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3104e5afd40dd4fbc7e88b8df29faa
+      internalID: 370819109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_13
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 3632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b18aaa362c2af84f9e71572f18ef167
+      internalID: 1765027999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_14
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3632
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54969a754cc88e4a9f968e83467386e
+      internalID: -471538441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_15
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe47977339cae4b9decf51aee03c05
+      internalID: -2115840486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_16
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3471
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb349af729404447b28c1c8d6f116f7
+      internalID: 1713487396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_17
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3471
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3416cd31c271f447a404468a4af239f
+      internalID: -408615357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_18
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3476
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19647c6c5552b944d901ca7d8b028263
+      internalID: 1143247561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3476
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3007ca2f7efa41b0b773bc86d6dff
+      internalID: -989041470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3472
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d89e8b091bb94d973c067f8744c90
+      internalID: 1608032412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3348
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff91ed5d3e19a4db55e81207d8b0e9
+      internalID: -1189233572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3348
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29063964a0708e4281c4887bab0031b
+      internalID: -573151230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3348
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcdc57212dfa3f41a451096d9beec88
+      internalID: -1353147019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3348
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb8bb2d52d42524da15613ef5c12fbc
+      internalID: 1962089594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_25
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3340
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5fdb1a1c220a4aa1d2e0d653cbf19
+      internalID: 1567017348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_26
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3340
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21cf3b37cce3d14ba8515691ea365d2
+      internalID: 1914259736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3340
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792ca7488a9e5a0489d74792e5a2cc68
+      internalID: 675960685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_28
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3338
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f7a32f1cbd6147867525d49c40fb8
+      internalID: -1152296904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3208
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f04e75116bd84eaab30b147f6e416
+      internalID: -1906954004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3208
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c51014c6014bc4ba06790c549dbad7
+      internalID: 411195425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3208
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8d1f356138644e978224c0f1fcc57
+      internalID: -1876651655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_32
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3208
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a930d48e7ad1b248b2b4a2a03c00839
+      internalID: 355577150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_33
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3208
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a4b59437de494597893730f9ae43e
+      internalID: 326021081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_34
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3208
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c8238fbf61cd46a89124c45a1a471
+      internalID: -1738868181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3208
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30480a38e21f2d44ae4d7961b30f258
+      internalID: 457146446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_36
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3208
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74225abb647761a43accf6da084aa932
+      internalID: -795904686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3076
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef70377199fd854794caa3064e95862
+      internalID: -1726572776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3076
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e2a109503cd243a01565b3fa3d3b2
+      internalID: 1224222532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3076
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218b7a1776c80e4fa5da0f53b76e30f
+      internalID: 2100605501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3076
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db4e60110b3ce849a0f01cc49f35d64
+      internalID: 349594203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_41
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3024
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd003257492761b429fad996224a7ac0
+      internalID: 1023090784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_42
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3024
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46790cb24eb76344b8f587b77882d4be
+      internalID: -1142561928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_43
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3024
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780970a1fc9a6f42951004d07371d60
+      internalID: 186446744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3024
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb89476bb1f5646958268079f1e3d5
+      internalID: 1347613237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_45
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 3024
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba6dc2c2c36a674da84540ffc760fc0
+      internalID: -81060054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2940
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6e6e8a820db84f85e83342b42d4ad
+      internalID: 112150338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2940
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0dcc41a04fd114b90b14c06259da2f
+      internalID: 506073258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2940
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6932f223c765d2d4e99175649e4aeff4
+      internalID: -1434314883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2940
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a065f49eb58744bbd583bab1687ae
+      internalID: 1111282403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_50
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2908
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cef8783cd840e4b9c0c3c71628f3aa
+      internalID: -794391337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_51
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2908
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a25121ff4f6642a4912a298841395
+      internalID: -2047116888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_52
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2908
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80ea2c7d65a344a9f0a4c87bd0fbb6
+      internalID: 700878272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_53
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2908
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843627340288f54fbf1adc474c213f1
+      internalID: 2142801119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_54
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2908
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24763c41a40734caa0c2aa52e5257c
+      internalID: -842144602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2792
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a1c2696335274ba152b366bbf5afe
+      internalID: -1801688044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2792
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1320f91f8866546a09dc7b7a3ee1fe
+      internalID: -1288460750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2792
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8029769b1cf047a513b0ce4cd980c
+      internalID: 538957473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2792
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af70bdad7e4354fb079bc39310f67b
+      internalID: 1596709623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_59
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2788
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee804498942dd546be1b18f2406085b
+      internalID: -1388370134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_60
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2788
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba73c4f05edfde4986d4287d9c932cc
+      internalID: -926129002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2788
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c456337ac63ddc64d8dfa1e4434dc91d
+      internalID: -1928467987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_62
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2788
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65fd3058912e64aa1450940ddd636d
+      internalID: 431808294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_63
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2788
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b139ff1b4e9691429bba42789aa6ee0
+      internalID: -1469285980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e85384a63c284daaeab0d6d4e8654
+      internalID: -473126375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_65
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2632
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585cba28c4f59a94991bbf8a2bdfa318
+      internalID: 1287199810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2632
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3493c2f8f58ad498c2184f6c9ab0ac
+      internalID: 721040630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_67
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2632
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8f959ca1152c544b0fb53f6554ca24
+      internalID: 1863059660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_68
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2632
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c0213aa2a5b7409cb2e50e0c21e4f
+      internalID: 158603892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_69
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2668
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058bcf3ac9ae5a4479f3ce8b3dbd1659
+      internalID: 383470684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_70
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2668
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc444a89d0c9284385fd8f05a5a3721
+      internalID: 2027185616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_71
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2668
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450ee59a7737f3d41ad8d08ceeff5a3b
+      internalID: -285656880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_72
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2668
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a01124f59f614a860a69b2aa8aa69
+      internalID: 1895571167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_73
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2668
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882419852c929f2498f9c8ee813c6161
+      internalID: -114605769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_74
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2476
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbede471ba5f45d4abd14a5b5b27694f
+      internalID: -1141072721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2476
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d8775b02a7314c876023ca6617165
+      internalID: -311968367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2476
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c582c42fa04bbaf4591728bc57dd72b3
+      internalID: -359851446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_77
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2476
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9c8ca64bf0bc46a2f4598bbe66ddc
+      internalID: -1006000256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_78
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2476
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a22985f662a2764e9ca4a317e2a6d1d
+      internalID: -1130097188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2332
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131f6daf85de474683acb3b177f9b2c
+      internalID: 841528311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2332
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567fe4369e413b4a8c011a6855dafd2
+      internalID: 2073594156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_81
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2332
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6ebc1c9d36ba145b355574583985f2
+      internalID: -19290782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_82
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2332
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6ee9a9a430aff40a03aca102f3979d
+      internalID: -1077401975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_83
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2332
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d3069693832d34c9824562af545aa7
+      internalID: -1314204221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2184
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a7c3ca83c7564895107aa7d26b46a
+      internalID: -1806601859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_85
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2184
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed66460f8be414d8dd050a8228dd05
+      internalID: -2021843858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_86
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2184
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464ccfe164a19940832a64a42f3280d
+      internalID: 1306588880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_87
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2184
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1074300356154d907776b9de511cf
+      internalID: -35817246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_ffp2_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2184
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c1df25ea09a7438020b506634f7c8
+      internalID: 164196359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sarah_ffp2_65: 1287199810
+      Sarah_ffp2_51: -2047116888
+      Sarah_ffp2_0: -441344647
+      Sarah_ffp2_83: -1314204221
+      Sarah_ffp2_60: -926129002
+      Sarah_ffp2_44: 1347613237
+      Sarah_ffp2_86: 1306588880
+      Sarah_ffp2_29: -1906954004
+      Sarah_ffp2_32: 355577150
+      Sarah_ffp2_70: 2027185616
+      Sarah_ffp2_21: -1189233572
+      Sarah_ffp2_19: -989041470
+      Sarah_ffp2_11: -446466378
+      Sarah_ffp2_31: -1876651655
+      Sarah_ffp2_9: -2011118594
+      Sarah_ffp2_35: 457146446
+      Sarah_ffp2_58: 1596709623
+      Sarah_ffp2_14: -471538441
+      Sarah_ffp2_25: 1567017348
+      Sarah_ffp2_72: 1895571167
+      Sarah_ffp2_4: -1206791659
+      Sarah_ffp2_16: 1713487396
+      Sarah_ffp2_55: -1801688044
+      Sarah_ffp2_85: -2021843858
+      Sarah_ffp2_27: 675960685
+      Sarah_ffp2_54: -842144602
+      Sarah_ffp2_22: -573151230
+      Sarah_ffp2_47: 506073258
+      Sarah_ffp2_81: -19290782
+      Sarah_ffp2_15: -2115840486
+      Sarah_ffp2_17: -408615357
+      Sarah_ffp2_57: 538957473
+      Sarah_ffp2_67: 1863059660
+      Sarah_ffp2_36: -795904686
+      Sarah_ffp2_40: 349594203
+      Sarah_ffp2_46: 112150338
+      Sarah_ffp2_61: -1928467987
+      Sarah_ffp2_68: 158603892
+      Sarah_ffp2_63: -1469285980
+      Sarah_ffp2_50: -794391337
+      Sarah_ffp2_75: -311968367
+      Sarah_ffp2_78: -1130097188
+      Sarah_ffp2_34: -1738868181
+      Sarah_ffp2_66: 721040630
+      Sarah_ffp2_49: 1111282403
+      Sarah_ffp2_5: -1690521655
+      Sarah_ffp2_45: -81060054
+      Sarah_ffp2_62: 431808294
+      Sarah_ffp2_39: 2100605501
+      Sarah_ffp2_7: 1046385708
+      Sarah_ffp2_38: 1224222532
+      Sarah_ffp2_84: -1806601859
+      Sarah_ffp2_6: -1637555110
+      Sarah_ffp2_69: 383470684
+      Sarah_ffp2_82: -1077401975
+      Sarah_ffp2_24: 1962089594
+      Sarah_ffp2_3: -1226860935
+      Sarah_ffp2_52: 700878272
+      Sarah_ffp2_87: -35817246
+      Sarah_ffp2_73: -114605769
+      Sarah_ffp2_88: 164196359
+      Sarah_ffp2_74: -1141072721
+      Sarah_ffp2_33: 326021081
+      Sarah_ffp2_76: -359851446
+      Sarah_ffp2_79: 841528311
+      Sarah_ffp2_41: 1023090784
+      Sarah_ffp2_13: 1765027999
+      Sarah_ffp2_23: -1353147019
+      Sarah_ffp2_42: -1142561928
+      Sarah_ffp2_64: -473126375
+      Sarah_ffp2_53: 2142801119
+      Sarah_ffp2_2: 1152864202
+      Sarah_ffp2_56: -1288460750
+      Sarah_ffp2_48: -1434314883
+      Sarah_ffp2_77: -1006000256
+      Sarah_ffp2_59: -1388370134
+      Sarah_ffp2_71: -285656880
+      Sarah_ffp2_80: 2073594156
+      Sarah_ffp2_28: -1152296904
+      Sarah_ffp2_43: 186446744
+      Sarah_ffp2_30: 411195425
+      Sarah_ffp2_8: -577265003
+      Sarah_ffp2_12: 370819109
+      Sarah_ffp2_18: 1143247561
+      Sarah_ffp2_1: 1205487332
+      Sarah_ffp2_37: -1726572776
+      Sarah_ffp2_10: -1749918213
+      Sarah_ffp2_26: 1914259736
+      Sarah_ffp2_20: 1608032412
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
